@@ -1,0 +1,1 @@
+First time trying TypeScript. Had a great time actually, seems pretty useful and easy to understand and put into use.

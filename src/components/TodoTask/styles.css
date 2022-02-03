@@ -1,0 +1,30 @@
+.todo__task {
+  display: flex;
+  width: 30%;
+  border-radius: 5px;
+  padding: 15px;
+  margin-top: 10px;
+  background-color: white;
+  box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.75);
+  border: 1px solid black;
+}
+
+.todo__text {
+  flex: 1;
+  padding: 5px;
+}
+
+.todo__text:focus {
+  outline: none;
+}
+
+.todo__icons {
+  display: flex;
+  align-items: center;
+}
+.icon {
+  margin-left: 8px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
